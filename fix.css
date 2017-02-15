@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "hr-icons";
+    src: url("//assets.hitrecord.org/production/hr-icons-fe483144a46a01dbd19dc55885dd2e9a417cb45d7c21f458c0e438a8f5a0ba4f.eot");
+    src: url("//assets.hitrecord.org/production/hr-icons-fe483144a46a01dbd19dc55885dd2e9a417cb45d7c21f458c0e438a8f5a0ba4f.eot?#iefix") format("embedded-opentype"), url("//assets.hitrecord.org/production/hr-icons-c449d31032dbd3174df7c440e78e51aa4cbf1be7130bcc89ab972c63f6c4f1c3.woff") format("woff"), url("//assets.hitrecord.org/production/hr-icons-935057cad0aa6c323721d2d0d5a1d248ce666c1efd16bcf359ff013fac5a6829.ttf") format("truetype"), url("//assets.hitrecord.org/production/hr-icons-4616f0ccd3a95d19bb61dd3cb5e9812b3bf72937e777ecac997e056762ac09b2.svg#hr-icons") format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+@font-face {
+    font-family: 'videogular';
+    src: url(//assets.hitrecord.org/production/videogular-themes-default/videogular-7d25e851ebbfded3a3780bf90555a70aca9291eec07d3c719d48c53f875ee6b9.eot);
+    src: url(//assets.hitrecord.org/production/videogular-themes-default/videogular-7d25e851ebbfded3a3780bf90555a70aca9291eec07d3c719d48c53f875ee6b9.eot?#iefix) format("embedded-opentype"), url(//assets.hitrecord.org/production/videogular-themes-default/videogular-f6f0fb41880d4f7c8e8f00b161be9cce0040d129278283d867ce999374b1ca00.woff) format("woff"), url(//assets.hitrecord.org/production/videogular-themes-default/videogular-5b8a7454c405e37975121352bdd4b24bedf6fbe481a2679b3178d0f46cb55930.ttf) format("truetype"), url(//assets.hitrecord.org/production/videogular-themes-default/videogular-203f83fbba112c8973adf73ef29fc7baafa23127ccd5abdba0fb7c7b8a337f4b.svg#videogular) format("svg");
+    font-weight: normal;
+    font-style: normal
+}
